@@ -1,0 +1,249 @@
+[22:10:56] [main/INFO]: Loading Minecraft 1.21.10 with Fabric Loader 0.17.3
+[22:10:57] [main/INFO]: Loading 91 mods:
+	- fabric-api 0.136.0+1.21.10
+	   |-- fabric-api-base 1.0.0+14b92d896f
+	   |-- fabric-api-lookup-api-v1 1.6.106+d17682156f
+	   |-- fabric-biome-api-v1 16.1.0+c2417d4f6f
+	   |-- fabric-block-api-v1 1.1.5+d17682156f
+	   |-- fabric-block-view-api-v2 1.0.34+e4fd1b926f
+	   |-- fabric-command-api-v2 2.4.0+c0ab2d5d6f
+	   |-- fabric-content-registries-v0 10.2.4+b6a242646f
+	   |-- fabric-convention-tags-v1 2.1.48+7f945d5b6f
+	   |-- fabric-convention-tags-v2 2.16.0+552403eb6f
+	   |-- fabric-crash-report-info-v1 0.3.18+33df5e6e6f
+	   |-- fabric-data-attachment-api-v1 1.8.30+68e881bd6f
+	   |-- fabric-data-generation-api-v1 23.2.24+d8b85ef16f
+	   |-- fabric-dimensions-v1 4.0.22+38b9cc196f
+	   |-- fabric-entity-events-v1 2.1.13+fde3702c6f
+	   |-- fabric-events-interaction-v0 4.0.36+5ba217126f
+	   |-- fabric-game-rule-api-v1 1.1.1+e47eaae56f
+	   |-- fabric-item-api-v1 11.5.9+9bce411b6f
+	   |-- fabric-item-group-api-v1 4.2.25+86b3ae576f
+	   |-- fabric-key-binding-api-v1 1.1.1+b3ba9c486f
+	   |-- fabric-lifecycle-events-v1 2.6.9+33df5e6e6f
+	   |-- fabric-loot-api-v2 3.0.65+3f89f5a56f
+	   |-- fabric-loot-api-v3 2.0.12+d17682156f
+	   |-- fabric-message-api-v1 6.1.7+3154c1c86f
+	   |-- fabric-model-loading-api-v1 6.0.2+3ffd6ef06f
+	   |-- fabric-networking-api-v1 5.1.0+b095d8db6f
+	   |-- fabric-object-builder-api-v1 21.1.26+9bce411b6f
+	   |-- fabric-particles-v1 4.2.3+a0ee59a46f
+	   |-- fabric-recipe-api-v1 8.1.27+d17682156f
+	   |-- fabric-registry-sync-v0 6.1.42+679c8c5c6f
+	   |-- fabric-renderer-api-v1 7.2.0+3706cdf36f
+	   |-- fabric-renderer-indigo 4.1.1+d7df91576f
+	   |-- fabric-rendering-fluids-v1 3.1.38+86b3ae576f
+	   |-- fabric-rendering-v1 16.0.2+19a99b056f
+	   |-- fabric-resource-conditions-api-v1 5.0.28+33df5e6e6f
+	   |-- fabric-resource-loader-v0 3.2.3+3388a3b26f
+	   |-- fabric-resource-loader-v1 1.0.3+8cc86c156f
+	   |-- fabric-screen-api-v1 3.1.0+9c82a7986f
+	   |-- fabric-screen-handler-api-v1 1.3.151+d17682156f
+	   |-- fabric-serialization-api-v1 1.0.0+d857c9766f
+	   |-- fabric-sound-api-v1 1.0.45+328a75ba6f
+	   |-- fabric-tag-api-v1 1.2.11+2fa446b26f
+	   |-- fabric-transfer-api-v1 6.0.15+79ec2c126f
+	   \-- fabric-transitive-access-wideners-v1 6.5.3+41eb43436f
+	- fabricloader 0.17.3
+	   \-- mixinextras 0.5.0
+	- floodgate 2.2.6-SNAPSHOT
+	   |-- aopalliance_aopalliance 1.0
+	   |-- com_google_guava_failureaccess 1.0.1
+	   |-- fabric-permissions-api-v0 0.4.1
+	   |-- jakarta_inject_jakarta_inject-api 2.0.1
+	   |-- javax_inject_javax_inject 1
+	   |-- org_geysermc_cumulus_cumulus 1.1.2
+	   |-- org_geysermc_event_events 1.1-SNAPSHOT
+	   |-- org_geysermc_geyser_common_unshaded 2.2.1-SNAPSHOT
+	   |-- org_java-websocket_java-websocket 1.5.2
+	   \-- org_lanternpowered_lmbda 2.0.0
+	- geyser-fabric 2.9.0-SNAPSHOT
+	   |-- cloud 2.0.0-beta.13
+	   |    |-- io_leangen_geantyref_geantyref 1.3.15
+	   |    |-- org_incendo_cloud-brigadier 2.0.0-beta.11
+	   |    |-- org_incendo_cloud-core 2.0.0
+	   |    |-- org_incendo_cloud-minecraft-modded-common-fabric-repack 2.0.0-beta.13
+	   |    \-- org_incendo_cloud-services 2.0.0
+	   |-- com_fasterxml_jackson_core_jackson-annotations 2.18.0
+	   |-- com_fasterxml_jackson_core_jackson-core 2.18.0
+	   |-- com_fasterxml_jackson_core_jackson-databind 2.18.0
+	   |-- com_fasterxml_jackson_dataformat_jackson-dataformat-yaml 2.18.0
+	   |-- com_google_errorprone_error_prone_annotations 2.27.0
+	   |-- com_nukkitx_natives 1.0.3
+	   |-- fabric-permissions-api-v0 0.4.1
+	   |-- io_airlift_aircompressor 0.27
+	   |-- io_jsonwebtoken_jjwt-api 0.12.6
+	   |-- io_jsonwebtoken_jjwt-gson 0.12.6
+	   |-- io_jsonwebtoken_jjwt-impl 0.12.6
+	   |-- io_netty_netty-codec-haproxy 4.2.3
+	   |-- net_jodah_expiringmap 0.5.10
+	   |-- net_kyori_adventure-api 4.24.0
+	   |-- net_kyori_adventure-key 4.24.0
+	   |-- net_kyori_adventure-nbt 4.24.0
+	   |-- net_kyori_adventure-text-serializer-commons 4.24.0
+	   |-- net_kyori_adventure-text-serializer-gson 4.24.0
+	   |-- net_kyori_adventure-text-serializer-json 4.24.0
+	   |-- net_kyori_adventure-text-serializer-json-legacy-impl 4.24.0
+	   |-- net_kyori_adventure-text-serializer-legacy 4.24.0
+	   |-- net_kyori_adventure-text-serializer-plain 4.24.0
+	   |-- net_kyori_examination-api 1.3.0
+	   |-- net_kyori_examination-string 1.3.0
+	   |-- net_kyori_option 1.1.0
+	   |-- net_lenni0451_commons_httpclient 1.6.0
+	   |-- net_raphimc_minecraftauth 4.1.1
+	   |-- org_bitbucket_b_c_jose4j 0.9.6
+	   |-- org_cloudburstmc_math_api 2.0
+	   |-- org_cloudburstmc_math_immutable 2.0
+	   |-- org_cloudburstmc_nbt 3.0.3
+	   |-- org_geysermc_api_base-api 1.0.2
+	   |-- org_geysermc_cumulus_cumulus 1.1.2
+	   |-- org_geysermc_event_events 1.1-SNAPSHOT
+	   |-- org_lanternpowered_lmbda 2.0.0
+	   \-- org_yaml_snakeyaml 2.2
+	- java 25
+	- minecraft 1.21.10
+[22:10:57] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/home/ilciab/Games/Minecraft%20Servers/LMC/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[22:10:57] [main/INFO]: Compatibility level set to JAVA_21
+[22:10:57] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[22:11:00] [main/WARN]: en_ is not a supported Floodgate language.
+[22:11:01] [main/INFO]: Loading extensions...
+[22:11:01] [main/INFO]: Loaded 0 extension(s)
+[22:11:01] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[22:11:02] [main/INFO]: Loaded 1461 recipes
+[22:11:02] [main/INFO]: Loaded 1574 advancements
+[22:11:02] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 769.8 μs
+[22:11:02] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[22:11:02] [Server thread/INFO]: Loading properties
+[22:11:02] [Server thread/INFO]: Default game type: SURVIVAL
+[22:11:02] [Server thread/INFO]: Generating keypair
+[22:11:02] [Server thread/INFO]: Starting Minecraft server on *:24575
+[22:11:02] [Server thread/INFO]: Using epoll channel type
+[22:11:02] [Server thread/INFO]: Preparing level "world"
+[22:11:02] [Server thread/INFO]: Loading 0 persistent chunks...
+[22:11:02] [Server thread/INFO]: Preparing spawn area: 100%
+[22:11:02] [Server thread/INFO]: Time elapsed: 45 ms
+[22:11:02] [Server thread/INFO]: Done (0.219s)! For help, type "help"
+[22:11:02] [Server thread/INFO]: Took 41ms to boot Floodgate
+[22:11:02] [Server thread/INFO]: ******************************************
+[22:11:02] [Server thread/INFO]: 
+[22:11:02] [Server thread/INFO]: Loading Geyser version 2.9.0-b953 (git-master-e9f2a5c)
+[22:11:02] [Server thread/INFO]: 
+[22:11:02] [Server thread/INFO]: ******************************************
+[22:11:04] [GeyserServer-3-1/INFO]: Started Geyser on UDP port 19132
+[22:11:04] [Server thread/INFO]: Done (1.618s)! Run /geyser help for help!
+[22:11:16] [User Authenticator #1/INFO]: UUID of player owlTempo is a09d3952-dc96-40a4-a67f-0f22d71257f8
+[22:11:16] [Server thread/INFO]: owlTempo[/79.27.250.209:51900] logged in with entity id 85 at (-13.901790292129881, 71.0, -37.82097289872332)
+[22:11:16] [Server thread/INFO]: owlTempo joined the game
+[22:11:30] [GeyserServerChild-4-1/INFO]: Player connected with username marcelosalo20
+[22:11:30] [localSession-7-1/INFO]: marcelosalo20 (logged in as: marcelosalo20) has connected to the Java server
+[22:11:30] [pool-6-thread-1/INFO]: Floodgate player who is logged in as .marcelosalo20 00000000-0000-0000-0009-01f0c1933dff joined
+[22:11:30] [Server thread/INFO]: .marcelosalo20[/151.45.16.101:0] logged in with entity id 699 at (-17.451569, 76.0, -26.347744)
+[22:11:30] [Server thread/INFO]: Floodgate player logged in as .marcelosalo20 joined (UUID: 00000000-0000-0000-0009-01f0c1933dff)
+[22:11:30] [Server thread/INFO]: .marcelosalo20 joined the game
+[22:11:49] [Server thread/INFO]: Added .marcelosalo20 to the whitelist
+[22:11:53] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[22:11:53] [Server thread/INFO]: whitelis on<--[HERE]
+[22:11:57] [Server thread/INFO]: Whitelist is now turned on
+[22:12:17] [Server thread/INFO]: owlTempo was shot by Skeleton
+[22:12:33] [Server thread/INFO]: owlTempo has made the advancement [Monster Hunter]
+[22:12:41] [User Authenticator #2/INFO]: UUID of player _Steelboy_ is ca19b459-8c5c-46ae-854d-75c598f8ef9d
+[22:12:41] [Server thread/INFO]: _Steelboy_[/127.0.0.1:41316] logged in with entity id 951 at (-54.95184534380697, 76.0, -67.51524790851064)
+[22:12:41] [Server thread/INFO]: _Steelboy_ joined the game
+[22:12:56] [Server thread/INFO]: [_Steelboy_: Set the time to 1000]
+[22:12:59] [Server thread/INFO]: [_Steelboy_: Made _Steelboy_ no longer a server operator]
+[22:13:29] [Server thread/INFO]: .marcelosalo20 has made the advancement [Monster Hunter]
+[22:14:16] [Server thread/INFO]: _Steelboy_ has made the advancement [Stone Age]
+[22:14:29] [Server thread/INFO]: owlTempo has made the advancement [Stone Age]
+[22:14:33] [Server thread/INFO]: .marcelosalo20 has made the advancement [Stone Age]
+[22:14:47] [Server thread/INFO]: _Steelboy_ has made the advancement [Getting an Upgrade]
+[22:14:59] [Server thread/INFO]: owlTempo has made the advancement [Getting an Upgrade]
+[22:16:16] [Server thread/INFO]: _Steelboy_ has made the advancement [Monster Hunter]
+[22:17:06] [Server thread/INFO]: .marcelosalo20 has made the advancement [Getting an Upgrade]
+[22:17:19] [Server thread/INFO]: <owlTempo> capocchia
+[22:17:40] [Server thread/WARN]: Failed to update secure chat state for .marcelosalo20: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[22:18:10] [Server thread/INFO]: <owlTempo> capocchia
+[22:18:10] [Server thread/INFO]: <owlTempo> capocchia
+[22:18:11] [Server thread/INFO]: <owlTempo> capocchia
+[22:18:11] [Server thread/INFO]: <owlTempo> capocchia
+[22:18:11] [Server thread/INFO]: <owlTempo> capocchia
+[22:18:11] [Server thread/INFO]: <owlTempo> capocchia
+[22:18:27] [Server thread/INFO]: <owlTempo> davide capocchione
+[22:19:33] [Server thread/INFO]: _Steelboy_ was slain by .marcelosalo20
+[22:20:04] [Server thread/INFO]: _Steelboy_ has made the advancement [Acquire Hardware]
+[22:20:08] [Server thread/INFO]: _Steelboy_ has made the advancement [Isn't It Iron Pick]
+[22:23:30] [Server thread/INFO]: .marcelosalo20 has made the advancement [Sweet Dreams]
+[22:23:40] [Server thread/INFO]: owlTempo has made the advancement [Sweet Dreams]
+[22:23:42] [Server thread/INFO]: _Steelboy_ has made the advancement [Sweet Dreams]
+[22:29:20] [Server thread/WARN]: .marcelosalo20 moved wrongly!
+[22:32:11] [Server thread/INFO]: Made _Steelboy_ a server operator
+[22:32:34] [Server thread/INFO]: [_Steelboy_: Created new objective [Health]]
+[22:33:07] [Server thread/INFO]: [_Steelboy_: Set display slot below_name to show objective Health]
+[22:33:51] [Server thread/INFO]: [_Steelboy_: Changed the display name of Health to [♡]]
+[22:34:06] [Server thread/INFO]: owlTempo has made the advancement [Acquire Hardware]
+[22:34:13] [Server thread/INFO]: owlTempo has made the advancement [Isn't It Iron Pick]
+[22:34:47] [Server thread/INFO]: .marcelosalo20 has made the advancement [Isn't It Iron Pick]
+[22:36:17] [Server thread/INFO]: [_Steelboy_: Set display slot sidebar to show objective ♡]
+[22:36:36] [Server thread/INFO]: [_Steelboy_: Set display slot list to show objective ♡]
+[22:37:10] [Server thread/INFO]: [_Steelboy_: Gamerule playersSleepingPercentage is now set to: 70]
+[22:37:17] [Server thread/INFO]: [_Steelboy_: Gamerule playersSleepingPercentage is now set to: 60]
+[22:37:24] [Server thread/INFO]: [_Steelboy_: Made _Steelboy_ no longer a server operator]
+[22:38:56] [Server thread/WARN]: .marcelosalo20 moved wrongly!
+[22:44:06] [Server thread/INFO]: .marcelosalo20 was shot by Skeleton
+[22:46:53] [Server thread/INFO]: _Steelboy_ has made the advancement [Diamonds!]
+[22:50:28] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[22:50:28] [Server thread/INFO]: difficulty normal<--[HERE]
+[22:50:32] [Server thread/INFO]: The difficulty is Hard
+[22:50:37] [Server thread/INFO]: Incorrect argument for command
+[22:50:37] [Server thread/INFO]: ...ifficulty set normal<--[HERE]
+[22:50:44] [Server thread/INFO]: Made _Steelboy_ a server operator
+[22:50:48] [Server thread/INFO]: [_Steelboy_: The difficulty has been set to Normal]
+[22:51:02] [Server thread/INFO]: [_Steelboy_: Made _Steelboy_ no longer a server operator]
+[22:53:50] [Server thread/INFO]: _Steelboy_ lost connection: Disconnected
+[22:53:50] [Server thread/INFO]: _Steelboy_ left the game
+[22:53:53] [User Authenticator #3/INFO]: UUID of player _Steelboy_ is ca19b459-8c5c-46ae-854d-75c598f8ef9d
+[22:53:53] [Server thread/INFO]: _Steelboy_[/127.0.0.1:36830] logged in with entity id 18715 at (-375.91774682343066, -22.0, -108.5278643489508)
+[22:53:53] [Server thread/INFO]: _Steelboy_ joined the game
+[22:54:05] [GeyserServerChild-4-1/INFO]: marcelosalo20 has disconnected from the Java server because of Bedrock client timed out
+[22:54:05] [Geyser Fabric connection thread-6-2/INFO]: Floodgate player logged in as .marcelosalo20 disconnected
+[22:54:05] [Server thread/INFO]: .marcelosalo20 lost connection: Disconnected
+[22:54:05] [Server thread/INFO]: .marcelosalo20 left the game
+[22:56:58] [Server thread/INFO]: _Steelboy_ was blown up by Creeper
+[22:58:32] [GeyserServerChild-4-2/INFO]: Player connected with username marcelosalo20
+[22:58:32] [localSession-7-2/INFO]: marcelosalo20 (logged in as: marcelosalo20) has connected to the Java server
+[22:58:37] [pool-6-thread-2/INFO]: Floodgate player who is logged in as .marcelosalo20 00000000-0000-0000-0009-01f0c1933dff joined
+[22:58:37] [Server thread/INFO]: .marcelosalo20[/151.50.22.151:0] logged in with entity id 20311 at (-451.43857, 11.0, -112.30002)
+[22:58:37] [Server thread/INFO]: Floodgate player logged in as .marcelosalo20 joined (UUID: 00000000-0000-0000-0009-01f0c1933dff)
+[22:58:37] [Server thread/INFO]: .marcelosalo20 joined the game
+[23:02:30] [Server thread/INFO]: _Steelboy_ was slain by Zombie
+[23:02:32] [Server thread/INFO]: .marcelosalo20 was slain by Zombie
+[23:04:18] [Server thread/INFO]: _Steelboy_ was blown up by Creeper
+[23:05:19] [Server thread/WARN]: .marcelosalo20 moved wrongly!
+[23:05:51] [Server thread/INFO]: _Steelboy_ was slain by Zombie
+[23:06:01] [Server thread/INFO]: .marcelosalo20 was slain by Zombie
+[23:07:43] [Server thread/INFO]: _Steelboy_ was slain by Zombie
+[23:07:54] [Server thread/INFO]: .marcelosalo20 was blown up by Creeper
+[23:11:48] [Server thread/INFO]: owlTempo lost connection: Disconnected
+[23:11:48] [Server thread/INFO]: owlTempo left the game
+[23:12:32] [Server thread/INFO]: _Steelboy_ hit the ground too hard
+[23:12:50] [Server thread/INFO]: _Steelboy_ lost connection: Disconnected
+[23:12:50] [Server thread/INFO]: _Steelboy_ left the game
+[23:12:55] [GeyserServerChild-4-2/INFO]: marcelosalo20 has disconnected from the Java server because of Bedrock client disconnected
+[23:12:55] [Geyser Fabric connection thread-6-3/INFO]: Floodgate player logged in as .marcelosalo20 disconnected
+[23:12:55] [Server thread/INFO]: .marcelosalo20 lost connection: Disconnected
+[23:12:55] [Server thread/INFO]: .marcelosalo20 left the game
+[23:12:56] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[23:12:56] [Server thread/INFO]: kstop<--[HERE]
+[23:12:58] [Server thread/INFO]: Stopping the server
+[23:12:58] [Server thread/INFO]: Shutting down Geyser.
+[23:12:58] [Server thread/INFO]: Geyser shutdown successfully.
+[23:12:58] [WebSocketConnectReadThread-142/INFO]: The skin uploader has been closed
+[23:13:00] [Server thread/INFO]: Stopping server
+[23:13:00] [Server thread/INFO]: Saving players
+[23:13:00] [Server thread/INFO]: Saving worlds
+[23:13:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:13:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:13:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:13:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:13:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:13:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:13:00] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
