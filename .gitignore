@@ -1,0 +1,6 @@
+logs/
+cache/
+crash-reports/
+*.log*
+*.gz
+world/*/session.lock
