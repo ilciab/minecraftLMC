@@ -3,4 +3,5 @@ cache/
 crash-reports/
 *.log*
 *.gz
+*.bat
 world/*/session.lock
