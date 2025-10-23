@@ -286,7 +286,8 @@
       "apple": "2025-10-21 22:24:57 +0200",
       "bread": "2025-10-21 22:25:29 +0200",
       "rotten_flesh": "2025-10-21 22:17:16 +0200",
-      "cooked_beef": "2025-10-21 22:31:38 +0200"
+      "cooked_beef": "2025-10-21 22:31:38 +0200",
+      "carrot": "2025-10-23 15:51:44 +0200"
     },
     "done": false
   },
@@ -827,6 +828,54 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-10-21 23:00:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-10-23 15:53:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-10-23 15:54:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-10-23 15:54:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-10-23 15:54:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-10-23 15:54:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_wildflowers": {
+    "criteria": {
+      "has_wildflowers": "2025-10-23 15:54:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-10-23 15:54:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-10-23 15:52:35 +0200"
     },
     "done": true
   },
