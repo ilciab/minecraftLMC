@@ -297,14 +297,17 @@
     "criteria": {
       "cooked_porkchop": "2025-10-22 22:27:37 +0200",
       "mutton": "2025-10-22 21:21:10 +0200",
-      "apple": "2025-10-22 20:47:51 +0200",
       "chicken": "2025-10-23 18:57:26 +0200",
-      "cooked_chicken": "2025-10-23 19:08:23 +0200",
+      "bread": "2025-10-24 21:05:07 +0200",
       "rotten_flesh": "2025-10-22 21:13:23 +0200",
       "cooked_mutton": "2025-10-22 21:28:16 +0200",
-      "potato": "2025-10-23 17:09:22 +0200",
       "cooked_beef": "2025-10-22 20:48:32 +0200",
+      "beef": "2025-10-24 21:32:03 +0200",
+      "baked_potato": "2025-10-24 21:29:23 +0200",
       "porkchop": "2025-10-22 20:42:39 +0200",
+      "apple": "2025-10-22 20:47:51 +0200",
+      "cooked_chicken": "2025-10-23 19:08:23 +0200",
+      "potato": "2025-10-23 17:09:22 +0200",
       "carrot": "2025-10-23 16:27:35 +0200"
     },
     "done": false
@@ -2448,6 +2451,24 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-10-23 21:16:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-10-24 21:31:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-10-24 21:31:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-10-24 21:31:35 +0200"
     },
     "done": true
   },
