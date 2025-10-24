@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "d3bf8ee9-6ebe-4716-80cd-56b83d5aa223",
+    "name": "SDA",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
