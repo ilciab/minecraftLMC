@@ -8,16 +8,17 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:flower_forest": "2025-10-21 22:29:43 +0200",
-      "minecraft:old_growth_birch_forest": "2025-10-23 19:39:23 +0200",
       "minecraft:forest": "2025-10-21 21:47:12 +0200",
-      "minecraft:deep_dark": "2025-10-23 19:07:16 +0200",
-      "minecraft:sunflower_plains": "2025-10-21 22:28:37 +0200",
       "minecraft:river": "2025-10-21 22:27:16 +0200",
+      "minecraft:stony_shore": "2025-10-23 21:59:39 +0200",
+      "minecraft:dripstone_caves": "2025-10-22 21:38:25 +0200",
+      "minecraft:old_growth_birch_forest": "2025-10-23 19:39:23 +0200",
+      "minecraft:deep_dark": "2025-10-23 19:07:16 +0200",
+      "minecraft:ocean": "2025-10-25 13:26:21 +0200",
+      "minecraft:sunflower_plains": "2025-10-21 22:28:37 +0200",
       "minecraft:grove": "2025-10-22 20:54:43 +0200",
       "minecraft:meadow": "2025-10-21 22:29:59 +0200",
       "minecraft:birch_forest": "2025-10-23 19:39:26 +0200",
-      "minecraft:stony_shore": "2025-10-23 21:59:39 +0200",
-      "minecraft:dripstone_caves": "2025-10-22 21:38:25 +0200",
       "minecraft:plains": "2025-10-21 22:22:48 +0200"
     },
     "done": false
@@ -3270,39 +3271,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mangrove_planks": {
+  "minecraft:husbandry/plant_seed": {
     "criteria": {
-      "has_logs": "2025-10-24 23:04:29 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
-    "criteria": {
-      "has_iron_ore": "2025-10-25 00:20:53 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mangrove_stairs": {
-    "criteria": {
-      "has_planks": "2025-10-24 23:04:34 +0200"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-10-24 23:59:26 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/mangrove_door": {
-    "criteria": {
-      "has_planks": "2025-10-24 23:04:34 +0200"
-    },
-    "done": true
-  },
-  "minecraft:adventure/play_jukebox_in_meadows": {
-    "criteria": {
-      "play_jukebox_in_meadows": "2025-10-24 23:16:52 +0200"
+      "wheat": "2025-10-24 22:54:05 +0200"
     },
     "done": true
   },
@@ -3312,51 +3283,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/breed_an_animal": {
+  "minecraft:recipes/building_blocks/mangrove_planks": {
     "criteria": {
-      "bred": "2025-10-24 23:05:43 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/mangrove_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-10-24 23:04:34 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
-    "criteria": {
-      "has_iron_ore": "2025-10-25 00:20:53 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mangrove_fence": {
-    "criteria": {
-      "has_planks": "2025-10-24 23:04:34 +0200"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:pig": "2025-10-24 23:05:43 +0200"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/mangrove_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-10-24 23:04:34 +0200"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-10-24 23:53:45 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/mangrove_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-10-24 23:04:34 +0200"
+      "has_logs": "2025-10-24 23:04:29 +0200"
     },
     "done": true
   },
@@ -3366,15 +3295,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mangrove_sign": {
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-10-24 23:04:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
     "criteria": {
       "has_planks": "2025-10-24 23:04:34 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mangrove_wood": {
+  "minecraft:recipes/redstone/mangrove_door": {
     "criteria": {
-      "has_log": "2025-10-24 23:04:29 +0200"
+      "has_planks": "2025-10-24 23:04:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-10-24 23:04:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2025-10-24 23:04:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-10-24 23:04:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-10-24 23:04:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_sign": {
+    "criteria": {
+      "has_planks": "2025-10-24 23:04:34 +0200"
     },
     "done": true
   },
@@ -3384,15 +3349,33 @@
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
+  "minecraft:recipes/building_blocks/mangrove_slab": {
     "criteria": {
-      "wheat": "2025-10-24 22:54:05 +0200"
+      "has_planks": "2025-10-24 23:04:34 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/grindstone": {
+  "minecraft:husbandry/breed_an_animal": {
     "criteria": {
-      "has_stone_slab": "2025-10-24 23:58:09 +0200"
+      "bred": "2025-10-24 23:05:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:pig": "2025-10-24 23:05:43 +0200"
+    },
+    "done": false
+  },
+  "minecraft:adventure/play_jukebox_in_meadows": {
+    "criteria": {
+      "play_jukebox_in_meadows": "2025-10-24 23:16:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-10-24 23:53:45 +0200"
     },
     "done": true
   },
@@ -3402,9 +3385,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mangrove_slab": {
+  "minecraft:recipes/decorations/grindstone": {
     "criteria": {
-      "has_planks": "2025-10-24 23:04:34 +0200"
+      "has_stone_slab": "2025-10-24 23:58:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-10-24 23:59:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-10-25 00:20:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-10-25 00:20:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2025-10-25 13:05:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2025-10-25 13:05:09 +0200"
     },
     "done": true
   },
