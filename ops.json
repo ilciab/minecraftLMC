@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "ca19b459-8c5c-46ae-854d-75c598f8ef9d",
+    "name": "_Steelboy_",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "d3bf8ee9-6ebe-4716-80cd-56b83d5aa223",
     "name": "SDA",
     "level": 4,
