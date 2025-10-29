@@ -2168,6 +2168,30 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-10-28 22:38:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-10-28 22:49:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-10-28 22:49:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-10-28 22:49:40 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-10-29 00:01:11 +0100"
@@ -2198,21 +2222,9 @@
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-10-28 22:38:35 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-10-29 00:01:11 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2025-10-28 22:49:40 +0100"
     },
     "done": true
   },
@@ -2237,12 +2249,6 @@
   "minecraft:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-10-29 00:01:11 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2025-10-28 22:49:40 +0100"
     },
     "done": true
   },
@@ -2282,15 +2288,81 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2025-10-28 22:49:40 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_tuff": {
     "criteria": {
       "has_tuff": "2025-10-29 00:01:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-10-29 16:21:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-10-29 16:21:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-10-29 17:34:38 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-10-29 17:34:38 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-10-29 16:21:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-10-29 16:21:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-10-29 16:21:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-10-29 16:21:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-10-29 17:37:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-10-29 17:37:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-10-29 16:21:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-10-29 17:37:58 +0100"
     },
     "done": true
   },
